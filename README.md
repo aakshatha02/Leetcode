@@ -15,3 +15,11 @@ This repository contains my solutions to LeetCode problems.
 </p>
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/aakshatha02/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+<!---LeetCode Topics End-->
