@@ -22,4 +22,8 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aakshatha02/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/aakshatha02/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
